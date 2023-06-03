@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**DenialRiver8810/DenialRiver8810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel Ge, welcome to my homepage! 
 
-Here are some ideas to get you started:
+### About Me
+I am a student currently attending Interlake High School in Bellevue, Washington. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apart from coding, I also do [competition mathematics](https://artofproblemsolving.com/community/user/421556), as well as coaching for middle school clubs. You can learn more about me on my [Github.io website](https://denialriver8810.github.io/)!
+
+### Connections
+<a href="https://www.youtube.com/channel/UCn0-0NrbLV_EdIIn2WWQ4uw">
+  <figure>
+    <img src="https://denialriver8810.github.io/images/YouTube-Mark.jpg" style="width:90px;height:90px;">
+  </figure>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+<a href="https://discordapp.com/users/701556544462127124/">
+  <figure>
+    <img src="https://denialriver8810.github.io/images/Discord-Mark.webp" style="width:90px;height:90px;">
+  </figure>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+<a href="https://artofproblemsolving.com/community/user/421556">
+  <figure>
+    <img src="https://denialriver8810.github.io/images/Aops-Mark.png" style="width:78px;height:90px;">
+  </figure>
+</a>
