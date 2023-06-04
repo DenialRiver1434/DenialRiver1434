@@ -12,7 +12,7 @@ I enjoy skiing, biking, flying UAVs, KSP, etc. I have videos of me doing these a
 
 <img src="https://github.com/DenialRiver8810/DenialRiver8810/assets/52391257/41330cbd-cd87-448e-b336-5d18211344f4" style="width:320px; height:180px">  
 <img src="https://github.com/DenialRiver8810/DenialRiver8810/assets/52391257/677261f6-bc15-4820-ad25-fbf8b8c7636c" style="width:320px; height:180px">  
-<img src="https://github.com/DenialRiver8810/DenialRiver8810/assets/52391257/bded1c08-0df8-4bb8-8cab-a7c963c25cc1" style="width:320px; height:180px">
+<img src="https://github.com/DenialRiver8810/DenialRiver8810/assets/52391257/a1a0034a-02ce-41be-be86-52d99c9f4801" style="width:320px; height:180px">
 
 (These are respectively pictures of drone footage, skiing, and biking. You can click on them to view full size)
 
