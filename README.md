@@ -3,7 +3,7 @@
 My name is Daniel Ge, welcome to my profile! 
 
 ### About Me
-I am a student currently attending Interlake High School in Bellevue, Washington. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! I am the founder of BASIS Competition Coding Club, and aspire to enrich passion in coding among young students.
+I am a freshman currently attending Interlake High School in Bellevue, Washington. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! I am the founder of BASIS Competition Coding Club, and aspire to enrich passion in coding among young students.
 
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialRiver8810&layout=compact&border_color=505c8c&theme=cobalt&border_radius=15&hide=jupyter%20notebook&langs_count=6%22"> &nbsp;&nbsp;&nbsp; <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenialRiver8810&border_color=505c8c&theme=cobalt&border_radius=15">
 
