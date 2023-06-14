@@ -19,7 +19,7 @@ I enjoy skiing, biking, flying UAVs, KSP, etc. I have videos of me doing these a
 (These are respectively pictures of drone footage, skiing, and biking. You can click on them to view full size)
 
 ### Connections
-<a href="https://discordapp.com/users/701556544462127124" target="_blank"><img align="center" src="https://clipground.com/images/discord-icon-png-4.png" alt="Discord" height="50" /></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/701556544462127124" target="_blank"><img align="center" src="https://web.evanchen.cc/icons/social-discord.png" alt="Discord" height="50" /></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/DenialRiver8810/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Leetcode" height="50" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCn0-0NrbLV_EdIIn2WWQ4uw" target="_blank"><img align="center" src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" alt="Youtube" height="50" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCn0-0NrbLV_EdIIn2WWQ4uw" target="_blank"><img align="center" src="https://web.evanchen.cc/icons/social-youtube.png" alt="Youtube" height="50" /></a>&nbsp;&nbsp;
 <a href="https://artofproblemsolving.com/community/user/421556" target="_blank"><img align="center" src="https://github.com/DenialRiver8810/DenialRiver8810.github.io/blob/main/images/Aops-Mark.png?raw=true" alt="AoPS" height="50" /></a>&nbsp;&nbsp;
