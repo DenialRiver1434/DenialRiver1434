@@ -5,7 +5,7 @@ My name is Daniel Ge, welcome to my profile!
 ### About Me
 I am a freshman currently attending Interlake High School in Bellevue, Washington. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! I am the founder of BASIS Competition Coding Club, and aspire to enrich passion in coding among young students.
 
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialRiver1434&layout=compact&border_color=505c8c&theme=cobalt&border_radius=15&hide=jupyter%20notebook&langs_count=6%22"> &nbsp;&nbsp;&nbsp; <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenialRiver1434&border_color=505c8c&theme=cobalt&border_radius=15&langs_count=6">
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialRiver1434&layout=compact&border_color=505c8c&theme=cobalt&border_radius=15&hide=jupyter%20notebook&langs_count=6%22"> &nbsp;&nbsp;&nbsp; <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenialRiver1434&border_color=505c8c&theme=cobalt&border_radius=15&langs_count=5">
 
 I am currently in USACO Gold, and hope to one day make it to Platinum. Apart from coding, I also do [competition math](https://artofproblemsolving.com/community/user/421556), and am a (silver) winner of the 2023 USAJMO. You can learn more about me on my [Github.io website](https://denialriver1434.github.io/)!
 
