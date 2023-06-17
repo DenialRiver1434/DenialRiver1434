@@ -21,5 +21,5 @@ I enjoy skiing, biking, flying UAVs, KSP, etc. I have videos of me doing these a
 ### Connections
 <a href="https://discordapp.com/users/701556544462127124" target="_blank"><img align="center" src="https://web.evanchen.cc/icons/social-discord.png" alt="Discord" height="50" /></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/DenialRiver1434/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Leetcode" height="50" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCn0-0NrbLV_EdIIn2WWQ4uw" target="_blank"><img align="center" src="https://web.evanchen.cc/icons/social-youtube.png" alt="Youtube" height="50" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@DenialRiver1434" target="_blank"><img align="center" src="https://web.evanchen.cc/icons/social-youtube.png" alt="Youtube" height="50" /></a>&nbsp;&nbsp;
 <a href="https://artofproblemsolving.com/community/user/421556" target="_blank"><img align="center" src="https://github.com/DenialRiver1434/DenialRiver1434.github.io/blob/main/images/Aops-Mark.png?raw=true" alt="AoPS" height="50" /></a>&nbsp;&nbsp;
