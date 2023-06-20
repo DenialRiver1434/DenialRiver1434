@@ -3,13 +3,11 @@
 My name is Daniel Ge, welcome to my profile! 
 
 ### About Me
-I am a freshman currently attending Interlake High School in Bellevue, Washington. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! I am the founder of the BASIS Competition Coding Club and aspire to enrich passion in coding among young students. 
+I am a freshman currently attending Interlake High School in Bellevue, Washington. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! Aspiring to enrich the passion for coding among young students, I founded the BASIS Competition Coding Club (BC3), and am a content author for [USACO Guide](https://usaco.guide).
 
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialRiver1434&layout=compact&border_color=505c8c&theme=cobalt&border_radius=15&hide=jupyter%20notebook&langs_count=6"> &nbsp;&nbsp;&nbsp; <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenialRiver1434&border_color=505c8c&theme=cobalt&border_radius=15&langs_count=5">
 
-I am also a content author for [USACO Guide](https://usaco.guide), the ultimate tool for USACO participants!
-
-Apart from coding, I also do [competition math](https://artofproblemsolving.com/community/user/421556), and will study [OTIS](https://web.evanchen.cc/otis.html). You can learn more about me on my [Github.io website](https://denialriver1434.github.io/)!
+Apart from coding, I also do [competition math](https://artofproblemsolving.com/community/user/421556), and will study [OTIS](https://web.evanchen.cc/otis.html) next year. You can learn more about me on my [Github.io website](https://denialriver1434.github.io/)!
 
 ### Hobbies
 I enjoy skiing, biking, flying UAVs, KSP, etc. I have videos of me doing these activities on my [youtube channel](https://www.youtube.com/channel/UCn0-0NrbLV_EdIIn2WWQ4uw). 
