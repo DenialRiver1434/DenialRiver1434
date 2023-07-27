@@ -5,7 +5,7 @@ My name is Daniel Ge, welcome to my profile!
 ### About Me
 I'll be a sophomore at Newport High School in Bellevue, Washington next year. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! Aspiring to enrich the passion for coding among young students, I founded the BASIS Competition Coding Club (BC3), and am a content author for [USACO Guide](https://usaco.guide).
 
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialRiver1434&layout=compact&border_color=505c8c&theme=cobalt&border_radius=15&hide=jupyter%20notebook&langs_count=6"> &nbsp;&nbsp;&nbsp; <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenialRiver1434&border_color=505c8c&theme=cobalt&border_radius=15&langs_count=5">
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialRiver1434&layout=compact&border_color=505c8c&theme=cobalt&border_radius=16&hide=jupyter%20notebook&langs_count=6"> &nbsp;&nbsp;&nbsp; <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenialRiver1434&border_color=505c8c&theme=cobalt&border_radius=15&langs_count=5">
 
 Apart from coding, I also do [competition math](https://artofproblemsolving.com/community/user/421556), and will study [OTIS](https://web.evanchen.cc/otis.html) next year. You can learn more about me on my [Github.io website](https://denialriver1434.github.io/)!
 
