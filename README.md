@@ -3,7 +3,7 @@
 My name is Daniel Ge, welcome to my profile! 
 
 ### About Me
-I'll be a sophomore at Newport High School in Bellevue, Washington next year. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! Aspiring to enrich the passion for coding among young students, I founded the BASIS Competition Coding Club (BC3), and am a content author for [USACO Guide](https://usaco.guide).
+I'll be a sophomore at Newport High School in Bellevue, Washington next year. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! Aspiring to enrich the passion for coding among young students, I founded the BASIS Competition Coding Club (BC3), and was a content author for [USACO Guide](https://usaco.guide).
 
 I study with [OTIS](https://web.evanchen.cc/otis.html) and [USACO Guide](https://usaco.guide).
 
