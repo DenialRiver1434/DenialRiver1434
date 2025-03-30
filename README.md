@@ -3,7 +3,7 @@
 My name is Daniel Ge, welcome to my profile! 
 
 ### About Me
-I'll be a sophomore at Newport High School in Bellevue, Washington next year. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! Aspiring to enrich the passion for coding among young students, I founded the BASIS Competition Coding Club (BC3), and was a content author for [USACO Guide](https://usaco.guide).
+I'll be a sophomore at Newport High School in Bellevue, Washington next year. I mostly study back-end algorithmic coding (USACO), but I do occasionally make HTML and JS projects as well! 
 
 I study with [OTIS](https://web.evanchen.cc/otis.html) and [USACO Guide](https://usaco.guide).
 
@@ -26,5 +26,6 @@ I enjoy skiing, biking, flying UAVs, KSP, etc. I have videos of me doing these a
 <a href="https://www.youtube.com/@DenialRiver1434" target="_blank"><img align="center" src="https://web.evanchen.cc/icons/social-youtube.png" alt="Youtube" height="50" /></a>&nbsp;&nbsp;
 <a href="https://artofproblemsolving.com/community/user/421556" target="_blank"><img align="center" src="https://github.com/DenialRiver1434/DenialRiver1434.github.io/blob/main/images/Aops-Mark.png?raw=true" alt="AoPS" height="50" /></a>&nbsp;&nbsp;
 <a href="mailto:shurongge@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="50" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/denialriver1434" target="_blank"><img align="center" src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="Instagram" height="50" /></a>&nbsp;&nbsp;
 <a href="https://denialriver1434.github.io" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GitHub" height="50" /></a>&nbsp;&nbsp;
       
